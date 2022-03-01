@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all magistrates in Christendom, that do profess Christianity. Concerning Christian gospel-liberty against persecution, and one Christian forcing, persecuting, imprisoning, and spoiling the goods of another, because they will not be of their faith, worship or religion.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23159</idno>
+            <idno type="STC">Wing F1939A</idno>
+            <idno type="STC">ESTC R215513</idno>
+            <idno type="EEBO-CITATION">99884500</idno>
+            <idno type="PROQUEST">ocm99884500</idno>
+            <idno type="VID">196423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196423)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B3:1[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all magistrates in Christendom, that do profess Christianity. Concerning Christian gospel-liberty against persecution, and one Christian forcing, persecuting, imprisoning, and spoiling the goods of another, because they will not be of their faith, worship or religion.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year, 1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: G.F.</note>
+                  <note>Attributed to George Fox. Cf. Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution --  Early works to 1800.</term>
+               <term>Christianity --  Creeds --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:196423:1" rendition="simple:additions"/>
+            <head>To all Magiſtrates in Chriſtendom, That do Profeſs Chriſtianity.</head>
+            <argument>
+               <p>Concerning <hi>Chriſtian Goſpel-Liberty</hi> againſt Perſecution, and One <hi>Chriſtian</hi> Forcing, Perſecuting, Impriſon<g ref="char:EOLhyphen"/>ing, and ſpoiling the Goods of another, becauſe they will not be of their <hi>Faith, Worſhip</hi> or <hi>Religion.</hi>
+               </p>
+            </argument>
+            <p>CHRIST ſaith, <hi>Let the Tares and the Wheat grow toge<g ref="char:EOLhyphen"/>ther till the Harveſt, which is the End of the World;</hi> and then <hi>Christ</hi>'s Angels ſhall ſeparate the <hi>Tares</hi> from the <hi>Wheat:</hi> And are not Angels <hi>Spirits,</hi> and not <hi>Men?</hi> For <hi>Chriſt</hi> commands Chriſtian Men to <hi>Love one ano<g ref="char:EOLhyphen"/>ther,</hi> and <hi>Love</hi> their <hi>Enemies;</hi> ſo not to Perſecute them: And thoſe Enemies may be Changed, by <hi>Repentance</hi> and <hi>Converſion,</hi> from <hi>Tares</hi> to <hi>Wheat.</hi> But if Men Impriſon them, and ſpoil and deſtroy them, they do not give them Time to <hi>Repent:</hi> So it is clear, it is the <hi>Angel</hi>'s Work to burn the <hi>Tares,</hi> and not <hi>Men</hi>'s: Chriſtian Men muſt <hi>Love one another,</hi> and their <hi>Enemies.</hi> And <hi>Christ</hi> Rebuked his Diſciples, that would have had Fire to have come down from Heaven, to have deſtroyed them that would not Receive Him; and told them, He <hi>Came not to deſtroy Mens Lives, but to ſave them:</hi> And <hi>Christ</hi> is the <hi>True Light,</hi> that doth <hi>Enlighten every one that comes into the World;</hi> and ſaith, <hi>Believe in the Light, that ye may become Chil<g ref="char:EOLhyphen"/>dren of the Light.</hi> And <hi>God pours out his Spirit upon all Fleſh;</hi> namely, his <hi>Sons</hi> and <hi>Daughters, Servants</hi> and <hi>Hand-Maids, Young Men</hi> and <hi>Old Men:</hi> And ſo the Manifeſtation of the <hi>Spirit of God</hi> is given to every one to <hi>profit withal;</hi> ſo that in the <hi>Spirit</hi> they may ſerve and worſhip the Living <hi>God</hi> that made them. And none are to grieve, nor vex, nor quench the Motions of the <hi>Spirit of God;</hi> but to Walk in it, and to be Led by it, that they may be the Sons and Daughters of <hi>God.</hi> And the <hi>Grace and Truth is come by Jeſus:</hi> and this Grace of <hi>God,</hi> which brings Salvation, hath ap<g ref="char:EOLhyphen"/>peared to all Men; which will teach them to <hi>deny <g ref="char:V">Ʋ</g>ngodlineſs,</hi> and to <hi>live righteouſly and ſoberly.</hi> So all Men that do know their Salvation, and come into Favour with <hi>God,</hi> it is by his Grace: And this Grace and Truth is in Men and Women's Hearts, to Eſtabliſh them upon <hi>Chriſt,</hi> who is full of Grace and Truth. And <hi>God</hi> would have all Men to come to the Knowledge of the Truth, and be <hi>ſaved:</hi> And ſo He would not have Men to be <hi>deſtroyed,</hi> nor gave no ſuch Command, that Men ſhould <hi>deſtroy</hi> one another about <hi>Religion.</hi> And <hi>Chriſt</hi> ſent his Apoſtles and Diſciples to Preach the <hi>Goſpel</hi> of <hi>Life</hi> and <hi>Salvation</hi> to all Nations, and every Creature under Hea<g ref="char:EOLhyphen"/>ven; He did not ſay, They ſhould <hi>impriſon,</hi> and <hi>ſpoil</hi> the Goods, and <hi>deſtroy</hi> ſuch as would not receive their Goſpel, nor believe it; but they ſhould <hi>ſhake off the Dust off their Feet;</hi> which ſhould be a ſufficient Witneſs againſt them.</p>
+            <p>And <hi>Chriſt, by the Grace of God, taſted Death for all Men;</hi> and, <hi>Christ gave himſelf a Ranſom for all Men, to be teſtifyed of in due time:</hi> So, hath not <hi>Christ</hi> in this purchaſed all, and bought all Man<g ref="char:EOLhyphen"/>kind <hi>with a Price,</hi> namely, with his Blood, in <hi>tasting Death for them all,</hi> and giving <hi>Himſelf a Ranſom for all?</hi> And therefore, are not all Men to <hi>Love one another,</hi> and <hi>Forgive one another,</hi> in this his Goſpel-Day? For <hi>Chriſt</hi> ſaith, <hi>Judge not, that ye be not Judged;</hi> and, <hi>With what Meaſure ye mete, it ſhall be meaſured to you again,</hi> Matth. 7.1, 2.</p>
+            <p>And the Chriſtians were not to judge nor deſpiſe one another a<g ref="char:EOLhyphen"/>bout eating of Meats, nor obſerving of Dayes; but <hi>Let every Man be fully perſwaded in his own Mind,</hi> Rom. 14. <hi>to the End,</hi> Coloſ. 2.16. And the Apoſtle <hi>Paul</hi> ſaith to the Church of <hi>Chriſt, Not that we have Dominion over your Faith; but we are Helpers of your Joy: for by Faith ye ſtand,</hi> 2 Cor. 1.24.</p>
+            <p>So <hi>Faith</hi> being the Gift of <hi>God,</hi> which <hi>Chriſt</hi> is the <hi>Author and Finiſher of;</hi> the Apoſtles did not claim a Dominion over the <hi>Faith,</hi> which is the Gift of <hi>God</hi> in Peoples Conſciences. And the Apoſtle ſaith, <hi>God hath dealt to every Man a Proportion of Faith,</hi> as in <hi>Rom.</hi> 12.3. and this <hi>Faith,</hi> the Apoſtle ſaith, <hi>works by Love,</hi> Gal. 5.6, 22. And again, the Apoſtle ſaith, <hi>Whatſoever is not of Faith, is Sin,</hi> Rom. 14 23. And the Righteouſneſs of Faith ſaith, <hi>The Word is in the Heart, and in the Mouth, to obey it, and to do it.</hi>
+            </p>
+            <p>And the <hi>Apoſtle</hi> ſaid, They were not to <hi>ſpeak Evil one of another,</hi> or Condemn one another; <hi>for he that did, ſpoke Evil of the Law, and Condemned the Law, and did not do it,</hi> Jam. 4.11. for the Law of <hi>God</hi> commands People to <hi>Love</hi> one another, and not to <hi>Per<g ref="char:EOLhyphen"/>ſecute</hi> one another; yea, to Love <hi>Enemies.</hi> And the <hi>Apoſtle</hi> ſaith, <hi>Love doth no Ill to his Neighbour.</hi> And the Apoſtle <hi>Peter</hi> ſaith, <hi>Honour all Men,</hi> &amp;c. <hi>and Love the Brotherhood:</hi> So if they have Honoured all Men, then they have them all in Eſteem, as they are the Creatures of <hi>God,</hi> whom <hi>Chriſt</hi> hath died for, and gave Him<g ref="char:EOLhyphen"/>ſelf a Ranſom. And the <hi>Apoſtle</hi> ſaith to the Church of <hi>Chriſt, Though we walk in the Fleſh, yet we do not war after the Fleſh; for the Weapons of our Warfare are not Carnal,</hi> &amp;c. 2 <hi>Cor.</hi> 10.3, 4. For <hi>We wreſtle not with Fleſh and Blood,</hi> ſaith the Apoſtle, <hi>Epheſ.</hi> 6.12. And in this Chapter you may ſee the Saints <hi>Spiritual Armour,</hi> and <hi>Spiritual Weapons.</hi> And ſo it is clear, the Chriſtians, in the <hi>Apoſtles</hi> Days, did not uſe <hi>Carnal Weapons,</hi> and wreſtle with Fleſh and Blood; and their Warfare was not Carnal, in Matters of Faith and Re<g ref="char:EOLhyphen"/>ligion, in the Church of <hi>Chriſt,</hi> and ſerving and worſhipping of <hi>God.</hi>
+            </p>
+            <p>And the Apoſtle <hi>Peter</hi> ſaith; That the <hi>Elders</hi> were not to be Lords over <hi>God</hi>'s <hi>Heritage;</hi> but that they might be Examples in good Life and Converſation, and good Doctrine; <hi>Not by Conſtraint, for filthy Lucre; but willingly, of a ready Mind,</hi> 1 Pet. 5.1, 2.</p>
+            <p>And the Apoſtle <hi>Peter</hi> ſaith; <hi>Of a Truth I perceive, that God is no Reſpecter of Perſons; but in every Nation, he that feareth God, and worketh Righteouſneſs, is accepted with Him:</hi> And this the Apoſtle <hi>Peter</hi> ſaid, when he went among the <hi>Gentiles,</hi> he by Na<g ref="char:EOLhyphen"/>ture being a <hi>Jew.</hi> So if <hi>God</hi> doth accept, in every Nation, all them that fear Him, and work Righteouſneſs; therefore, ought not all that have the Mind of <hi>Christ,</hi> and Profeſs true Chriſtianity, to be <hi>Tender</hi> to ſuch as <hi>fear God,</hi> and <hi>work Righteouſneſs?</hi> and are not all Chriſtians, that Love <hi>Christ,</hi> to keep the Command of <hi>Chriſt,</hi> to <hi>Love one another,</hi> and to <hi>Love Enemies?</hi> Then they cannot <hi>Perſe<g ref="char:EOLhyphen"/>cute,</hi> and ſpoil the Goods, and Impriſon any concerning <hi>Church, Faith, Religion,</hi> and the <hi>Worſhip</hi> of <hi>God.</hi>
+            </p>
+            <p>And <hi>God</hi> Reproves and Judges ſuch as build up <hi>Sion</hi> with <hi>Blood;</hi> for the <hi>Lord</hi> ſaith, <hi>That Sion that is built up with Blood, ſhall be Plowed up as a Field, that is turned up-ſide down,</hi> Micah 3.10, 12. Therefore you may ſee, ſuch as build with <hi>Blood</hi> and <hi>Perſecution,</hi> their Work doth not Proſper: For the Body, or Church of <hi>Christ,</hi> is Edified, Knitt, and United, and Built up together with the <hi>LOVE</hi> of <hi>GOD, Epheſ.</hi> 4.16. <hi>Col.</hi> 2.19.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>
+               <hi>Do not all Chriſtians that Profeſs Chriſtianity, ſay theſe Words in the Lord's Prayer,</hi> Forgive us our Treſ<g ref="char:EOLhyphen"/>paſſes, as we forgive our Treſpaſſers? <hi>And does not</hi> Chriſt <hi>ſay,</hi> If ye forgive Men their Treſpaſ<g ref="char:EOLhyphen"/>ſes, your Heavenly Father will alſo forgive you your Treſpaſſes; but if ye forgive not Men their Treſpaſſes, neither will your Heavenly Father forgive your Treſpaſſes, <hi>Matth.</hi> 6.12, 14, 15. <hi>So ye may ſee, all Chriſtians in Chriſtendom prays to</hi> God <hi>conditionally, to be forgiven of</hi> God <hi>their Treſpaſſes againſt Him, as they do forgive Men their Treſpaſſes againſt them. And therefore, it behooves all Chriſtian People to be ſerious, and conſider what they do, when they Pray to</hi> God, <hi>that they do</hi> forgive <hi>others, as they would have</hi> God <hi>to</hi> forgive <hi>them: And if they do</hi> Forgive, <hi>they will not</hi> Hate <hi>nor</hi> Perſecute, <hi>but</hi> Love.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
